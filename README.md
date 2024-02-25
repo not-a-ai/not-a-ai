@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Current Endeavors<br>I'm currently studying to become a fullstack developer. Here's what I'm currently focused on:<br>- I'm engaged in exciting fullstack web projects.<br>- I'm exploring different tools and libraries to enhance my skill set.<br>- I'm starting to learn mobile programming.<br><br>⚡ Fun fact<br>- I'm a big star wars fan.<br>- I'm a military.<br>- I love to explore new places.
+🔭 Current Endeavors<br>I'm currently studying to become a fullstack developer. Here's what I'm currently focused on:<br>- I'm engaged in exciting fullstack web projects.<br>- I'm exploring different tools and libraries to enhance my skill set.<br>- I'm starting to learn mobile programming.<br><br>⚡ Fun fact<br>- I'm a big fan of star wars.<br>- I'm a military.
 
 
 ## 🌐 Socials:
